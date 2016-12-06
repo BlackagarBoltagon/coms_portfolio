@@ -1,6 +1,6 @@
 # [Cesar Omar Morales' Portfolio](http://portfolio.cesaromarmorales.com/)
 
-[Cesar Omar Morales' Portfolio](http://portfolio.cesaromarmorales.com/)is my design portfolio which was created using [Creative](http://startbootstrap.com/template-overviews/creative/) a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Cesar Omar Morales' Portfolio](http://portfolio.cesaromarmorales.com/) is my design portfolio which was created using [Creative](http://startbootstrap.com/template-overviews/creative/) a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
 
